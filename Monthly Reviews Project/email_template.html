@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    /* Your existing CSS */
+  </style>
+</head>
+<body>
+<div class="email-container">
+    <div class="logo-section logo-lines">
+        <div class="logo">
+            <img src="cid:logo_image" alt="Company Logo">
+        </div>
+    </div>
+    <!-- Corrected data iteration -->
+    {% for entry in company_data %}
+        <div class="introduction">
+            <h1>{{ entry.comany_name }}</h1>
+            <h2>Monthly Performance</h2>
+            <h3>Let's see what you have achieved with Vintly</h3>
+        </div>
+        <div class="first-section">
+            <div class="box1">
+                <h4>Total Count of Transports</h4>
+                <p><b>Last Month: </b>{{ entry['Total Count Of Transports (This Month)'] }}</p>
+                <p><b>Year to Date: </b>{{ entry['Total Count Of Transports (This Year)'] }}</p>
+            </div>
+            <div class="box2">
+                <h4>Total Deliveries Not On Time</h4>
+                <p><b>Last Month: </b>{{ entry['Total Deliveries Not On Time (This Month)'] }}</p>
+                <p><b>Year to Date: </b>{{ entry['Total Deliveries Not On Time (This Year)'] }}</p>
+            </div>
+        </div>
+        <div class="second-section">
+            <div class="box3">
+                <h4>Top Destinations</h4>
+                <p>{{ entry['Top Destinations (This Month)'] }}</p>
+                <p>{{ entry['Top Destinations (This Year)'] }}</p>
+            </div>
+        </div>
+    {% endfor %}
+</div>
+</body>
+</html>
