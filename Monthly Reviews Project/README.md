@@ -13,4 +13,8 @@ This Python script leverages the Google Sheets API to retrieve company data from
 - **Logging**: Tracks and displays the recipients of each email.
 
 ### Usage Restrictions
-Please note that this project contains proprietary information and code. It is not available for public or commercial use without prior written consent from me. For more information on obtaining permission or discussing potential uses, please contact me directly.
+Copyright [2024] [Robin Martin] All Rights Reserved
+
+Unauthorized copying, modification, distribution, or use of this software, via any medium, is strictly prohibited without the prior written permission of Robin Martin.
+
+For permissions or inquiries, please contact: [robin.martin35@gmail.com]
