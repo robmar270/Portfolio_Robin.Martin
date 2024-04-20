@@ -8,6 +8,9 @@ This project utilizes the Spotify API to fetch the top songs by a specified arti
 - `requests` library
 - Spotify Developer Account
 
+## Documentations
+https://developer.spotify.com/documentation/web-api
+
 ## Usage Restrictions
 Copyright [2024] [Robin Martin] All Rights Reserved
 
