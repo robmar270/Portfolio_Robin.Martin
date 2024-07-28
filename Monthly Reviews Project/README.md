@@ -4,9 +4,10 @@
 During my internship at a startup B2B SaaS company, I spearheaded the development of a monthly review system akin to "Spotify Wrapped" for our customers. This system provided valuable insights on how customers used our platform, enhancing business value and fostering stronger customer relationships.
 
 ## Project Description
-The project aimed to automate the distribution of personalized monthly updates to customers, segmented into four distinct categories based on platform usage and industry. The solution involved creating complex SQL queries for data extraction and using automation tools to send customized emails.
+The project aimed to automate the distribution of personalized monthly updates to customers, segmented into four distinct categories based on platform usage and industry. The solutions involved creating complex SQL queries for data extraction and using automation tools to send customized emails. 
 
-### Solutions Implemented
+### Solutions Overview
+To enhance my skills and explore different approaches, I developed two distinct solutions for this project:
 
 #### Solution 1: Microsoft Power Automate
 
