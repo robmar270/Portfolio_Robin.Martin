@@ -19,7 +19,7 @@
             - Triggers were set to extract data from the Excel sheets based on `company_id`.
             - Dynamic HTML email templates were created to personalize the email content using the extracted data.
         - **HTML Template Example**:
-            - The script and image you can find in file emailtemplate.html & emailimg
+            - The script and image you can find in file email_template.html & email_img_example
          
 ### Key Features:
 - **Data Retrieval**: Efficient extraction of customer data from the database.
