@@ -29,7 +29,7 @@ This solution involves sending personalized emails using data retrieved from Goo
 ## Files in the Repository
 
 - `montly_reviews_project.py`: The main Python script for data retrieval and email automation.
-- `email_template.html`: The HTML template used for the email content.
+- `flow_01.sql`: The SQL script I did for flow 01
 
 ## Usage Restrictions
 Copyright [2024] [Robin Martin]. All Rights Reserved.
