@@ -4,7 +4,7 @@
 
 1. **Data Extraction**:
     - **SQL Scripts**: I created four different SQL scripts and you if you wanna see the logic behind.
-    - **The script you find it in file "flow_01.sql"
+    - **The script you find it in file "01_flow.sql"
 
 2. **Excel Integration**:
     - **Description**:
