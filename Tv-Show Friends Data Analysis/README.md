@@ -14,8 +14,8 @@ By combining data manipulation, cleaning, and visualization, I built a comprehen
 ---
 
 ## Data Sources  
-- **Friends Dataset (Kaggle)**: Contains details like season, episode, title, air date, IMDb ratings, and US viewership.  
-- **Friends Script Dataset (Kaggle)**: Includes every line spoken in the show, tagged with the character and episode details.  
+- **Friends Dataset ([Kaggle](https://www.kaggle.com/datasets/bcruise/friends-episode-data/data?select=friends_episodes.csv))**: Contains details like season, episode, title, air date, IMDb ratings, and US viewership.  
+- **Friends Script Dataset (https://www.kaggle.com/datasets/blessondensil294/friends-tv-series-screenplay-script)**: Includes every line spoken in the show, tagged with the character and episode details.  
 
 ---
 
