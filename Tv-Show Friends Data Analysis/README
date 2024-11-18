@@ -79,7 +79,7 @@ The Tableau dashboard enables users to:
 - Compare IMDb ratings and US viewership for all episodes.  
 - Identify the most and least popular episodes quickly.  
 
-👉 **[View the Tableau Public Dashboard](#)**  
+👉 **[View the Tableau Public Dashboard](https://public.tableau.com/app/profile/robin.martin1864/viz/TheOnewithAlltheData/Friends)**  
 
 ---
 
