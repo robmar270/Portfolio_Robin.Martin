@@ -3,11 +3,11 @@
 ## Introduction  
 The TV show *Friends* is a legendary sitcom loved by millions worldwide. I wanted to explore why it has remained so appealing and uncover interesting insights from the data. Using two datasets from Kaggle—one with structured episode data and another with the complete script—I aimed to answer the following key questions:
 
-- How has the total number of lines for each character evolved across the series?  
-- Can we dive deeper into insights at the season and episode level?  
-- Which writers and producers were most involved in creating *Friends*?  
-- What were the least and most viewed/rated episodes or seasons?  
-- How many times did Joey say his iconic line, *“How you doin’?”*  
+1. How has the total number of lines for each character evolved across the series?  
+2. Can we dive deeper into insights at the season and episode level?  
+3. Which writers and producers were most involved in creating *Friends*?  
+4. What were the least and most viewed/rated episodes or seasons?  
+5. How many times did Joey say his iconic line, *“How you doin’?”*  
 
 By combining data manipulation, cleaning, and visualization, I built a comprehensive dashboard in Tableau to uncover these insights.
 
@@ -64,7 +64,7 @@ By combining data manipulation, cleaning, and visualization, I built a comprehen
   - Andrew Reich & Ted Cohen wrote the most episodes.  
 
 - **Joey’s Iconic Line**:  
-  - “How you doin’?” was said **25 times** by Joey.  
+  - *“How you doin’?”* was said **25 times** by Joey.  
   - Other characters also said it: Ross (4), Rachel (4), Monica (2).  
 
 - **Viewer Trends**:  
@@ -79,7 +79,7 @@ The Tableau dashboard enables users to:
 - Compare IMDb ratings and US viewership for all episodes.  
 - Identify the most and least popular episodes quickly.  
 
-👉 **[View the Tableau Public Dashboard](https://public.tableau.com/app/profile/robin.martin1864/viz/TheOnewithAlltheData/Friends)**  
+👉 **[View the Tableau Public Dashboard](#)**  
 
 ---
 
