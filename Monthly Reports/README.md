@@ -1,4 +1,4 @@
-# 📧 Solution 02: Monthly Reviews Project
+# 📧 Monthly Reviews Project
 
 ## 📝 Overview
 This project streamlines the process of sending **personalized monthly review emails** using data from Google Sheets. A Python script does the heavy lifting—retrieving, processing, and automating secure email delivery.
