@@ -1,4 +1,4 @@
-#Semi-Automated Sales Pipeline
+# Semi-Automated Sales Pipeline
 
 ## Purpose
 Increase the volume of outreach while tracking lead behavior across email campaigns.
